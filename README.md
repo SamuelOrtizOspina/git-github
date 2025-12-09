@@ -81,7 +81,6 @@ pip install setuptools wheel
 
 Empaqueta tu proyecto.
 
-hola
 
 ```bash
 python setup.py sdist bdist_wheel
